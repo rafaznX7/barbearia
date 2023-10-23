@@ -17,3 +17,8 @@ element.style {
   top: 100px;
   right: 300px;
 }
+nav {
+position:absolute;
+top : 0;
+right: 0;
+}
