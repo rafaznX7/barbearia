@@ -28,3 +28,8 @@ width: 940px;
 position:relative;
 margin: 0 auto;
 }
+element . style {
+  position: absolute;
+  top: 100px;
+  right: 300px;
+}
